@@ -135,4 +135,17 @@ Buns maturity is newer, smaller, it's startup is much faster (would prefer bun),
 
 ---
 
+# CLASS 32: Express & TypeScript
+
+# QUESTION 9
+What does each request respond with, and **why**? Mention route order and express's "first matching route wins" rule in your answer.
+
+## ANSWER
+
+---
+
+# QUESTION 10
+In `app.get("/api/products/:id", handler)`, what type is `req.params.id`? Write the exact expression you'd use to get it as a **number**, and explain why Express does not convert it for you.
+
+## ANSWER 
 
